@@ -11,7 +11,6 @@ My name is Syed Muhmmad Burair Abbas
 * ⚡ Fun fact: I love coding and reading.
 
 ## Language And Framework:
----
 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)  
 [Python](https://www.python.org/)  
 [ASP.Net](https://dotnet.microsoft.com/apps/aspnet)  
