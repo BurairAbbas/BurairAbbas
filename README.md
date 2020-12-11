@@ -12,8 +12,7 @@ My name is Syed Muhmmad Burair Abbas
 
 ## Language And Framework:
 ---
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-* [ASP.Net](https://dotnet.microsoft.com/apps/aspnet) 
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) * [ASP.Net](https://dotnet.microsoft.com/apps/aspnet) 
 Python Django SQLServer HTML CSS Boostrap
 
 <!--
