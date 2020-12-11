@@ -12,18 +12,14 @@ My name is Syed Muhmmad Burair Abbas
 
 ## Language And Framework:
 ---
-[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-
-[ASP.Net](https://dotnet.microsoft.com/apps/aspnet) 
-
-[Python](https://www.python.org/)
-
-[Django](https://www.djangoproject.com/)
-
-[SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-
+[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)  
+[ASP.Net](https://dotnet.microsoft.com/apps/aspnet)  
+[Python](https://www.python.org/)  
+[Django](https://www.djangoproject.com/)  
+[SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
 [HTML]  
-[CSS]   [Boostrap]
+[CSS]  
+[Boostrap]
 
 <!--
 **BurairAbbas/BurairAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
