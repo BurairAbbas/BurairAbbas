@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Syed Muhmmad Burair Abbas
+My name is Syed Muhammad Burair Abbas
 ---
 * 🔭 I’m currently working on E-Commerce Website.
 
