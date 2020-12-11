@@ -10,9 +10,11 @@ My name is Syed Muhmmad Burair Abbas
 
 * ⚡ Fun fact: I love coding and reading.
 
-## Language And Tools:
+## Language And Framework:
 ---
-[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [ASP.Net][dill] Python Django SQLServer HTML CSS Boostrap
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+* [ASP.Net](https://dotnet.microsoft.com/apps/aspnet) 
+Python Django SQLServer HTML CSS Boostrap
 
 <!--
 **BurairAbbas/BurairAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
